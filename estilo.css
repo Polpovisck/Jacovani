@@ -1,0 +1,146 @@
+.texto{
+        color: #d2d2c1;
+        background: black;
+    }
+
+body{
+    background: #d2d2c1;
+    font: 16px Arial, Helvetica, sans-serif; 
+}
+
+#cabecalho{
+    background: #c5c5b2;
+    padding: 15px;
+    text-align: center;
+}
+
+#logo{
+    padding: 10px;
+    padding: 15px;
+    text-align: center;
+}
+
+#menu{
+    background: #c5c5b2;
+    padding: 18px;
+    text-align: center;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+a:hover{
+    color: #ff0000
+} 
+
+#principal{
+    background: #e8e8d9;
+    width: 920px;
+    margin: 0 auto;
+}
+
+.posiçãox{
+    margin-left: 370px;
+}
+.tx{
+    padding: 15px;
+    font: 16px Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto;
+}
+
+#conteudo{
+    background: #e8e8d9;
+    padding: 15px;
+    font: 16px Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto;
+    
+}
+
+#mapa{
+    text-align: center;
+}
+
+#rodape{
+    text-align: center;
+    clear: both;
+}
+
+h4{
+    color: #828271;
+    font-size: 1.3em;
+}
+
+h3{
+    color: #828271;
+}
+.p{
+    color: #828271;
+    font-style: italic;
+}
+
+#contate{
+    padding: 15px;
+    font: 16px Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: auto;
+}
+
+.caixa{
+    border: 2px solid #828271;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    text-align: center;
+}
+
+.caixa1{
+    border: 2px solid #828271;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    text-align: left;
+}
+
+.valores{
+    text-align: center;
+}
+
+.equipe{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 40px;
+    
+}
+
+
+.img-produto{
+    padding: 20px;
+    float: left;
+    margin: 20px;
+}
+
+.produto{
+    background: white;
+    border: 2px solid #828271;
+    padding: 20px;
+    margin: 20px;
+    width: 500px;
+    height: 500px;
+    float: left;
+    color: #4b566a;
+    font: 20px Arial, Helvetica, sans-serif; 
+}
+
+.postagem{
+    padding: 20px;
+    margin-bottom: 20px;
+}
